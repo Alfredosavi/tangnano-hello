@@ -40,9 +40,10 @@ Before starting, make sure you have the following software installed:
     ```
 
 3. To compile and simulate the bench tests, run:
-  ```bash
-  make test
-  ```
+
+   ```bash
+   make test
+   ```
 
 4. To download the bitstream to the FPGA, run:
 
